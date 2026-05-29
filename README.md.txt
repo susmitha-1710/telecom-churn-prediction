@@ -1,5 +1,7 @@
 # Telecom Customer Churn Prediction
 
+Intern ID: CITS426
+
 ## Project Overview
 This project predicts whether a telecom customer will leave the company using machine learning.
 
